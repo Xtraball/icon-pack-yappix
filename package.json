@@ -1,0 +1,13 @@
+{
+  "name": "IconPackYappix",
+  "decription": "Icon pack for SiberianCMS.",
+  "version": "1.0",
+  "type": "icons",
+  "dependencies": {
+    "system": {
+      "type": "SAE",
+      "version": "4.6.1"
+    }
+  }
+}
+
